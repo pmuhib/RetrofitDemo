@@ -11,8 +11,6 @@ import javax.inject.Inject;
  */
 
 public class BaseActivity extends AppCompatActivity {
-    @Inject
-    ApisModule apisModule;
 
 
 }
